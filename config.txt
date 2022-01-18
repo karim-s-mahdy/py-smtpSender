@@ -1,0 +1,10 @@
+[SMTP]
+
+smtp_server = None
+smtp_port = None
+smtp_username = None
+smtp_passowrd = None
+
+[subject]
+
+subject = None
